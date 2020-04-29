@@ -1,0 +1,12 @@
+{
+    "commonm": {
+        "home": "中文",
+        "title": "标题"
+    },
+    "date": {
+        "title": "选择日期"
+    },
+    "user": {
+        "name": "名字"
+    }
+}

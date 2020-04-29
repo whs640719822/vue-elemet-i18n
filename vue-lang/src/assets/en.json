@@ -1,0 +1,12 @@
+{
+    "commonm": {
+        "home": "English",
+        "title": "title"
+    },
+    "date": {
+        "title": "pick a day"
+    },
+    "user": {
+        "name": "name"
+    }
+}
